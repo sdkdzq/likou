@@ -1,0 +1,3 @@
+/Users/qing.zhao/CLionProjects/zuoti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qing.zhao/CLionProjects/zuoti/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qing.zhao/CLionProjects/zuoti/cmake-build-debug/CMakeFiles/zuoti.dir
